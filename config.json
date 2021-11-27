@@ -1,6 +1,6 @@
 {
-  "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
-  "twrp_branch": "twrp-9.0",
+  "twrp_url": "git://gitlab.com/OrangeFox/Manifest.git",
+  "twrp_branch": "fox-9.0",
   "git_username": "YifePlayte",
   "git_email": "62252171+YifePlayte@users.noreply.github.com",
   "use_own_dt": true,
